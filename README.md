@@ -28,27 +28,11 @@ Desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Sempre em
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caio-almeid4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-almeid4&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 Conquistas
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caio-almeid4&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -64,8 +48,6 @@ Desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Sempre em
 ---
 
 <div align="center">
-  
-💙 *"Código é poesia que funciona"*
 
 ![Visitor Count](https://profile-counter.glitch.me/caio-almeid4/count.svg)
 
