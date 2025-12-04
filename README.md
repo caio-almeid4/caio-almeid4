@@ -31,18 +31,6 @@ Estudante de Estatística na USP. Trabalho com Engenharia de Dados e IA Generati
 
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caio-almeid4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-almeid4&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caio-almeid4&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🔗 Conecte-se Comigo
 
 <div align="center">
