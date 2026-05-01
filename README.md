@@ -11,7 +11,7 @@
 Statistics student at USP and **Generative AI Tech Intern at AWS**. I work at the intersection of frontier models and enterprise operations, transforming technical complexity into business value.
 
 - 🤖 **Current Focus**: Orchestrating agentic workflows and autonomous systems for business automation.
-- 🌐 **Cloud Native**: Building and deploying secure AI applications on cloud infrastructure.
+- 🌐 **Cloud Native**: Building and deploying secure AI applications across **AWS** and exploring **Google Cloud (GCP)** ecosystem.
 - 🔌 **Integrations**: Connecting LLMs with enterprise tools like Salesforce and Slack to reduce operational friction.
 - 📊 **Foundation**: Applying statistical rigor from USP to validate and optimize generative model performance.
 
@@ -24,4 +24,5 @@ Statistics student at USP and **Generative AI Tech Intern at AWS**. I work at th
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PostgreSQL](
