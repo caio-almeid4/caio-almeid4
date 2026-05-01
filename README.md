@@ -1,37 +1,42 @@
-# 👋 Olá, eu sou o Caio!
+# 👋 Hi, I'm Caio!
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=ML+%26+AI+Engineer;Data+Engineering+%7C+GenAI;Statistics+Student+@+USP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=GenAI+Systems+Architect;Agentic+Workflows+%7C+MCP;Statistics+Student+@+USP)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Estudante de Estatística na USP. Trabalho com Engenharia de Dados e IA Generativa.
+Statistics student at USP and Data & AI Engineer Intern at AWS. I work at the intersection of frontier models and large-scale operations, transforming technical complexity into business value.
 
-- 🔭 Foco atual: Deep Learning, Cloud e GenAI
-- 📊 Estatística aplicada a Machine Learning
-- 🛠️ Construindo pipelines de dados e modelos de IA
+- 🤖 **Current Focus**: Orchestrating multi-agent systems and autonomous workflows using LangGraph and MCP.
+- 🌐 **Cloud Native**: Building and deploying secure AI applications on AWS infrastructure.
+- 🔌 **Connectivity**: Implementing Model Context Protocol (MCP) to integrate LLMs with enterprise tools like Salesforce and Slack.
+- 📊 **Foundation**: Applying statistical rigor from USP to validate and optimize generative model performance.
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## 🔗 Conecte-se Comigo
+## 📈 Impact & Projects
+
+- **Enterprise AI**: Developing agent orchestrators for CRM automation and corporate communication.
+- **Infrastructure**: Provisioning secure cloud instances and integrating with internal authentication protocols.
+- **Open Protocols**: Hands-on experience with Model Context Protocol (MCP) for model extensibility.
+
+## 🔗 Connect with me
 
 <div align="center">
 
